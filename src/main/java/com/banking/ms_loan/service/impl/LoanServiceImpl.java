@@ -8,7 +8,6 @@ import com.banking.ms_loan.repository.InstallRepository;
 import com.banking.ms_loan.repository.LoanRepository;
 import com.banking.ms_loan.service.LoanService;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.reactive.function.client.WebClient;
